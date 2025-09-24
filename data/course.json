@@ -1,0 +1,53 @@
+{
+  "term": "Fall",
+  "year": "2006",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Humanities",
+      "History",
+      "World History"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Industrial Organization"
+    ]
+  ],
+  "legacy_uid": "2d684029-fe05-d6f7-b617-0313505760b1",
+  "instructors": {
+    "content": [
+      "075c5803-ed9a-6bc7-743d-f571ec275ed7",
+      "ebde8643-1410-392c-ea39-02a5e01c2971"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "2c9b44da-71da-cde7-2e79-40693cb037d2",
+    "website": "14-731-economic-history-fall-2006"
+  },
+  "course_title": "Economic History",
+  "course_description": "This course offers a comprehensive survey of world economic history, designed to introduce economics graduate students to the subject matter and methodology of economic history. Topics are chosen to show a wide variety of historical experience and illuminate the process of industrialization. A final term paper is due at the end of the course.\n",
+  "department_numbers": [
+    "14"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "14.731",
+  "course_image_thumbnail": {
+    "content": "d01affbf-0b53-fa7a-f130-a08de1f91f0f",
+    "website": "14-731-economic-history-fall-2006"
+  },
+  "learning_resource_types": [
+    "Written Assignments"
+  ],
+  "site_uid": "82bbeac0-695b-456c-b1ab-3294e5a30558",
+  "site_short_id": "14.731-fall-2006",
+  "site_url_path": "courses/14-731-economic-history-fall-2006",
+  "title": "Course Metadata"
+}
