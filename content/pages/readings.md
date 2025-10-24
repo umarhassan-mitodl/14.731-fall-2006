@@ -237,7 +237,7 @@ Granitz, Elizabeth, and Benjamin Klein. "Monopolization by 'Raising Rivals' Cost
 The Great Depression
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Temin, Peter. {{% resource_link "710e339f-4f5a-400a-a4c6-0ed1268c719b" "_Lessons from the Great Depression_" %}}. Cambridge, MA: MIT Press, 1989, chapters 1-2, pp. 1-87. ISBN: 0262200732.
+![Buy at MIT Press](/images/mp_logo.gif) Temin, Peter. [_Lessons from the Great Depression_](https://mitpress.mit.edu/books/lessons-great-depression). Cambridge, MA: MIT Press, 1989, chapters 1-2, pp. 1-87. ISBN: 0262200732.
 
 Bernanke, Ben. "Nonmonetary Effects of the Financial Crisis in the Propagation of the Great Depression." _American Economic Review_ 73 (June 1983): 257-76.
 
@@ -249,7 +249,7 @@ Bernanke, Ben. "Nonmonetary Effects of the Financial Crisis in the Propagation o
 Recovery
 {{< tdclose >}}{{< tdopen >}}
 
-Temin, Peter. {{% resource_link "6a138c9e-1832-49a7-8191-b707fc7b946a" "_Lessons from the Great Depression_" %}}. Cambridge, MA: MIT Press, 1989, chapter 3, pp. 89-137. ISBN: 0262200732.
+Temin, Peter. [_Lessons from the Great Depression_](http://mitpress.mit.edu/books/lessons-great-depression). Cambridge, MA: MIT Press, 1989, chapter 3, pp. 89-137. ISBN: 0262200732.
 
 Obstfeld, Maurice, and Alan M. Taylor. "The Great Depression as a Watershed: International Capital Mobility over the Long Run." In _The Defining Moment: The Great Depression and the American Economy in the Twentieth Century_. Edited by Michael D. Bordo, Claudia Dale Goldin, and Eugene Nelson White. Chicago, IL: University of Chicago Press, 1998, pp. 353-402. ISBN: 0226065898.
 
